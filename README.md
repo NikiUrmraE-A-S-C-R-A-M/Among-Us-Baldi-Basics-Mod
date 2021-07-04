@@ -27,5 +27,10 @@ RUN RUN RUN RUN FASTER
  - or go to steam and search among us and double click and click on manage and click broswe local files then  click amog us or play in steam
  - Download Winrar then go to mega.nz and download among us 816.zip then open file then click on the winrar file then click On Among us.exe
 
+# MORE INFO
+ - Success You Have Completed The steps :)
+ - If You wanna go for more info Go To CONTRUBITING.md And CHANGELOG.md for more info and histroy 
+
+
 
 
