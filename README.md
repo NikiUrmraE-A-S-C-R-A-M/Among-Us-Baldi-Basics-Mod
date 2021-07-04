@@ -29,7 +29,7 @@ RUN RUN RUN RUN FASTER
 
 # MORE INFO
  - Success You Have Completed The steps :)
- - If You wanna go for more info Go To CONTRUBITING.md And CHANGELOG.md for more info and histroy 
+ - If You wanna go for more info Go To CONTRUBITING.md And CHANGELOG.md for more info and histroy and file type 
 
 
 
