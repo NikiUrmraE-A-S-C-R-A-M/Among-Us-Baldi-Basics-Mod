@@ -1,4 +1,4 @@
-# RULES 
+# RULES AND HISTROY 
  - Collect 7 notebooks and run quickly towards any door before it closes 
  - Collect 2 notebooks to use two doors 
  - the number 6 question is very hard 
