@@ -1,14 +1,10 @@
-# BALDI BASIC SOURCE
-Install README.md
+# RULES 
+ - Collect 7 notebooks and run quickly towards any door before it closes 
+ - Collect 2 notebooks to use two doors 
+ - the number 6 question is very hard 
+ - the more answers you get wrong the more baldi smacks fast and faster RUN RUN RUN RUN RUN !!!!!
+ - when you got one notebook right you got a penny 
+ - this game is very SCARY!!! 
+ - baldi smacks you and you got hurt 
+ - when you run in halls princpal comes and put you into dentention 
 
-# Sources
-Source code (zip) Source code (tar.gz)
-
-# HACKER SOURCE
-Hacker-typer: Color A Hacker-pannel:cmd.exe
-
-# CONSTOLES MOD
-Command 2+9 Caculate (2+9) BALDIBASICSAMONGUS.rar Run.exe
-
-# TOPIC REMOVED EXE
-Start.exe
